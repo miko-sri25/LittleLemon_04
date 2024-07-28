@@ -1,5 +1,5 @@
 .main {
-    background-color: #495e57;
+    background-color: #5f8479;
     display: flex;
     height: 420px;
     margin-top: 2em;
@@ -13,7 +13,7 @@
     font-family: Markazi Text,serif;
 }
 #sh1 {
-    color: #f4ce14;
+    color: #f3d646;
     font-size: 60px;
     font-weight: 700;
 }
